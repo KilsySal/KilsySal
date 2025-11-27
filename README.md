@@ -6,9 +6,9 @@
 -✨ My favorite tools are figma, GoodNotes, Notion
     and Procreate on my Ipad thar is my besty.
 
-##😄 Fun fact: 
+## 😄 Fun fact: 
 
-- ⚡️ I`m a coffee adict
+- ⚡️ I`m a coffee adict.
 - ⚡️ School days is my favorite anime.
 - ⚡️ I`m into reading and piano playing.
 <!--
