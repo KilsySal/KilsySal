@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 
+### Web development is a lifelong journey of learning and growth. 
 
 - 🌱 I`m a web Developer based in Michigan, USA.
 - 🌱 I design and buid whaterver I can imagine.
