@@ -1,16 +1,20 @@
 ## Hi there 👋
 
 <!--
-**KilsySal/KilsySal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+✨ I`m a web Developer based in Michiga, USA.
+✨ I design and buid whaterver I can imagine.
+✨ My main stack is JavaScrpt, React, NodeJS.
+✨ My favorite tools are figma, GoodNotes, Notion
+    and Procreate on my Ipad thar is my besty.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+😄 Fun fact: 
+
+  ⚡️ I`m a coffee adict
+  ⚡️ School days is my favorite anime.
+  ⚡️ I`m into reading and piano playing.
+
 -->
